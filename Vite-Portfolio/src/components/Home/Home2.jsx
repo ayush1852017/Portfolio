@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar1.svg";
+import myImg from "../../Assets/avatar2.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -32,9 +32,9 @@ function Home2() {
               <i>
                 <b className='orange'>Web Technologies and Products </b> and
                 also in areas related to{" "}
-                <b className='orange'>
-                  Deep Learning and Natural Launguage Processing.
-                </b>
+                {/* <b className='orange'>
+                 
+                </b> */}
               </i>
               <br />
               <br />
