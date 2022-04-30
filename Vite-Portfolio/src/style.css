@@ -539,9 +539,11 @@ button:focus {
   opacity: 0.8 !important;
   border-radius: 10px !important;
 }
-/* .profile-img{
-
-} */
+.profile-img:hover{
+  will-change: transform;
+    transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s;
+    transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);
+}
 .blog-img {
   padding: 0px !important;
   opacity: 0.8 !important;
