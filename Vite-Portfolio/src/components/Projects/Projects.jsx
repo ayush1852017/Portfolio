@@ -23,7 +23,8 @@ function Projects() {
               isBlog={false}
               title='1mg-Clone'
               description='Clone of Img website along with one teammate. This will be used to buy medicines online'
-              link='https://github.com/PRAKASH-1971/1mg-team'
+              code='https://github.com/PRAKASH-1971/1mg-team'
+              link='https://brave-hodgkin-05f1da.netlify.app/'
             />
           </Col>
 
@@ -33,7 +34,8 @@ function Projects() {
               isBlog={false}
               title='Pepperfry-Clone'
               description='Clone of Pepperfry along with 5 teammates. This platform is an furniture ecommerce platform'
-              link='https://github.com/NishutSuman/Pepperfry_Clone'
+              code='https://github.com/NishutSuman/Pepperfry_Clone'
+              link='https://pepperfry-clone.netlify.app/'
             />
           </Col>
 
@@ -43,7 +45,8 @@ function Projects() {
               isBlog={false}
               title='Github-Profiles'
               description='Fetching github profile with react.js. We can see everysingle details of an user on this'
-              link='https://github.com/ayush1852017/Git-clone'
+              code='https://github.com/ayush1852017/Git-clone'
+              link='https://git-clone2.vercel.app/'
             />
           </Col>
         </Row>
