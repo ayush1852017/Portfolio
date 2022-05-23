@@ -6,8 +6,6 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
-  DiGit,
 } from "react-icons/di";
 import {
   SiPytorch,
