@@ -93,15 +93,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
-              <Nav.Link
-                href='https://ekmyth.com/'
-                target='_blank'
-                rel='noreferrer'
-              >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
-              </Nav.Link>
-            </Nav.Item>
+
 
             <Nav.Item className='fork-btn'>
               <Button

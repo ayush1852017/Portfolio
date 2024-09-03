@@ -22,6 +22,7 @@ function Projects() {
               imgPath={onemg}
               isBlog={false}
               title='1mg-Clone'
+              createdAt={'May 2022'}
               description='Clone of Img website along with one teammate. This will be used to buy medicines online'
               code='https://github.com/PRAKASH-1971/1mg-team'
               link='https://brave-hodgkin-05f1da.netlify.app/'
@@ -33,6 +34,7 @@ function Projects() {
               imgPath={pepperfry}
               isBlog={false}
               title='Pepperfry-Clone'
+              createdAt={'March 2022'}
               description='Clone of Pepperfry along with 5 teammates. This platform is an furniture ecommerce platform'
               code='https://github.com/NishutSuman/Pepperfry_Clone'
               link='https://pepperfry-clone.netlify.app/'
@@ -44,6 +46,7 @@ function Projects() {
               imgPath={gitprofile}
               isBlog={false}
               title='Github-Profiles'
+              createdAt={'May 2022'}
               description='Fetching github profile with react.js. We can see everysingle details of an user on this'
               code='https://github.com/ayush1852017/Git-clone'
               link='https://git-clone2.vercel.app/'

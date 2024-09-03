@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className='orange'> React, Javascript and node. </b>
+                <b className='orange'> React, Angular and node. </b>
               </i>
               <br />
               <br />
@@ -39,7 +39,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className='orange'>Node.js</b> and
+              with <a href="https://angular.dev/overview" target="_blank" className='orange'>Angular</a> and
               <i>
                 <b className='orange'>
                   {" "}
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className='orange'> React.js</b>
+                <a href="https://react.dev/learn" target="_blank" className='orange'> React.js</a>
               </i>
             </p>
           </Col>
@@ -61,9 +61,6 @@ function Home2() {
         <Row>
           <Col md={12} className='home-about-social'>
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className='orange'>connect </span>with me
-            </p>
             <ul className='home-about-social-links'>
               <li className='social-icons'>
                 <a
@@ -95,16 +92,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className='social-icons'>
-                <a
-                  href='https://www.instagram.com/25_bajpai/'
-                  target='_blank'
-                  rel='noreferrer'
-                  className='icon-colour home-social-icons'
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+             
             </ul>
           </Col>
         </Row>
